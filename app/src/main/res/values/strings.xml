@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">HealthyCare</string>
+    <string name="drawer_item_menu_different_topics">Different Topics</string>
+    <string name="drawer_title_item_menu_main_screen">Main Screen</string>
+    <string name="fab_text">Add</string>
+    <string name="input_your_pulse">Input your pulse</string>
+    <string name="input_your_heart_beat">Input your heart beat</string>
+    <string name="input_your_heart_bit">Input your heart bit</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="healthy_care_title_app_bar">Healthy Care</string>
 </resources>
