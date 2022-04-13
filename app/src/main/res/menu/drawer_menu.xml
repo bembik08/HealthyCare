@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_screen_item_menu"
+        android:icon="@android:drawable/sym_action_chat"
+        android:title="@string/drawer_title_item_menu_main_screen" />
+    <item
+        android:id="@+id/labels_item_menu"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/drawer_item_menu_different_topics"
+        />
+
+</menu>

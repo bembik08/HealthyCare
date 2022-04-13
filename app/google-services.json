@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095735726995",
+    "firebase_url": "https://healty-care-70ab1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "healty-care-70ab1",
+    "storage_bucket": "healty-care-70ab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095735726995:android:701ddb9820d53d71d50e66",
+        "android_client_info": {
+          "package_name": "com.teck.healtycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095735726995-mh1r85vi32seb55n2n21gp3f03qunh3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS4n8dHbZ2MxElR2uuCzHyihFLm_h5xOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095735726995-mh1r85vi32seb55n2n21gp3f03qunh3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
